@@ -12,7 +12,7 @@ import torch
 app = Flask(__name__)
 
 # Charger le fichier CSV
-data_path = "questions_intentions.csv"
+data_path = "C:\\Python\\BERT Fine-Tuning pour la Classification des Intentions\\questions_intentions.csv"
 df = pd.read_csv(data_path)
 
 # Convertir les intentions en labels numériques
