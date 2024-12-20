@@ -1,0 +1,6 @@
+text,intent
+"Je veux acheter un téléphone","Acheter"
+"Est-ce que ce produit est en stock ?","Vérifier disponibilité"
+"J'ai besoin d'aide avec la livraison","Assistance"
+"Quel est le prix de ce produit ?","Acheter"
+"Avez-vous une offre spéciale ?","Acheter"
